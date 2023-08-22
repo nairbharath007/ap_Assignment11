@@ -8,5 +8,9 @@ namespace DeadlyDiamondOfDeathProblem.Model
 {
     internal class Animal
     {
+        public void Speak()
+        {
+            Console.WriteLine("Animal speaks.");
+        }
     }
 }

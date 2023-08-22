@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DeadlyDiamondOfDeathProblem.Model
 {
-    internal class Mammal
+    internal class Mammal : Animal
     {
+        public void Speak()
+        {
+            Console.WriteLine("Mammal speaks.");
+        }
     }
 }
