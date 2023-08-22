@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadlyDiamondOfDeathProblem", "DeadlyDiamondOfDeathProblem.csproj", "{79CC6074-291F-4893-AB1F-A848918E1C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79CC6074-291F-4893-AB1F-A848918E1C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CC6074-291F-4893-AB1F-A848918E1C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CC6074-291F-4893-AB1F-A848918E1C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CC6074-291F-4893-AB1F-A848918E1C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28D05A58-1D46-428C-BE2A-9D5A26CB468B}
+	EndGlobalSection
+EndGlobal

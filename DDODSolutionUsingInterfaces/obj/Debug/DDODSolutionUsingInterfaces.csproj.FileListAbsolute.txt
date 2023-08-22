@@ -1,0 +1,8 @@
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\DDODSolutionUsingInterfaces\bin\Debug\DDODSolutionUsingInterfaces.exe.config
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\DDODSolutionUsingInterfaces\bin\Debug\DDODSolutionUsingInterfaces.exe
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\DDODSolutionUsingInterfaces\bin\Debug\DDODSolutionUsingInterfaces.pdb
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\DDODSolutionUsingInterfaces\obj\Debug\DDODSolutionUsingInterfaces.csproj.AssemblyReference.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\DDODSolutionUsingInterfaces\obj\Debug\DDODSolutionUsingInterfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\DDODSolutionUsingInterfaces\obj\Debug\DDODSolutionUsingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\DDODSolutionUsingInterfaces\obj\Debug\DDODSolutionUsingInterfaces.exe
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\DDODSolutionUsingInterfaces\obj\Debug\DDODSolutionUsingInterfaces.pdb
